@@ -2,7 +2,6 @@
 margin: 0;
 padding: 0;
 background-color: blue;
-
     }
 .quebra-cabeca{
 width: 900px;
@@ -10,4 +9,3 @@ weight: 500px;
 display: flex;
 flex-wrap: wrap;
 }
-
